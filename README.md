@@ -12,19 +12,15 @@ Assessments, once created and assigned to a course, will be sent to students for
 
 1. Create a PostgreSQL Database with the name `intellego`
 2. Clone the project main branch to your local computer
-3. Add`.env` file to the root directory of the project folder
-4. Paste this content to the .env file:
-
-
-5. Run `npm install` to install packages
-6. Run `npm run seed` to seed data to database
-7. Run `npm run start:dev` to run the project
-8. In browser, go to url : `localhost:8080`
-9. Log in with existing account or sign up with new account
+3. Run `npm install` to install packages
+4. Run `npm run seed` to seed data to database
+5. Run `npm run start:dev` to run the project
+6. In browser, go to url : `localhost:8080`
+7. Log in with existing account or sign up with new account
 
    ```jsx
    email: kara@email.com
    password: 123123
    ```
-10. To view a submission form, visit this url : [localhost:3015/student/courses/114/assessments/105](http://localhost:8080/student/courses/114/assessments/105)
+8. To view a submission form, visit this url : [localhost:3015/student/courses/114/assessments/105](http://localhost:8080/student/courses/114/assessments/105)
     - verify student ID with 100
