@@ -6,6 +6,7 @@ To begin, log in or sign up for an account. You will be taken to your dashboard,
 
 Assessments, once created and assigned to a course, will be sent to students for them to be filled out. They will be given a unique ID number to verify their identity before submitting. Once they submit, teachers will be able to view and grade submissions. Assessments may also be assigned to other courses, or just edited if there are no submissions.
 
+This was originally a group project created by Amy Chun, Natalie Dudar, Na Lin, Madeleine Lloyd-Davies, and Natalie Ricci.
 
 
 ### Steps to set up project
